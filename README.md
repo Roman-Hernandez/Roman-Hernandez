@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td><strong>Currently Learning</strong></td>
-    <td>.NET, Svelte, Go, software architecture and AI integrations</td>
+    <td>Go, software architecture and AI integrations</td>
   </tr>
 </table>
 
