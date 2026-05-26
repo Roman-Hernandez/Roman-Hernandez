@@ -1,17 +1,116 @@
-<h1 align="center">Hi 👋, I'm Juan Roman Hernandez</h1>
-<h3 align="center">I am a developer interested in automation, AI, machine learning, and data analysis.</h3>
+<h1 align="center">Hi, I'm Juan Roman Hernandez</h1>
 
-- 🔭 I’m currently working on [Betowa](https://betowa.sena.edu.co/iniciar-sesion)
+<h3 align="center">
+  Software Developer focused on backend development, automation, data analysis and AI-based solutions.
+</h3>
 
-- 🌱 I’m currently learning **.Net, Svelte**
-
-- 📫 How to reach me **juancanas651@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/romanhdzx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="romanhdzx" height="30" width="40" /></a>
-<a href="https://instagram.com/romanhdzx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="romanhdzx" height="30" width="40" /></a>
+<p align="center">
+  I build practical software solutions with a strong interest in scalable systems, clean architecture, data processing and intelligent automation.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:juancanas651@gmail.com">
+    <img src="https://img.shields.io/badge/Email-juancanas651%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/juancanas651">
+    <img src="https://img.shields.io/badge/GitHub-juancanas651-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/juan-roman-hernandez">
+    <img src="https://img.shields.io/badge/LinkedIn-Juan%20Roman%20Hernandez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## About Me
+
+```yaml
+name: Juan Roman Hernandez
+role: Software Developer
+location: Colombia
+focus:
+  - Backend Development
+  - Automation
+  - Data Analysis
+  - Artificial Intelligence
+  - Clean Architecture
+  - Scalable Systems
+
+currently_working_on:
+  - Betowa
+  - Backend services
+  - Data processing
+  - Reporting automation
+  - Analytics modules
+
+currently_learning:
+  - .NET
+  - Svelte
+  - Go
+  - Software Architecture
+  - AI integrations
+Current Work
+
+I am currently working on Betowa, a platform related to SENA processes.
+
+My work is focused on backend development, data analysis, reporting automation and software improvements using modern development practices.
+
+Main Interests
+Backend development
+REST API design
+Software architecture
+Clean Architecture and SOLID principles
+Database analysis
+PostgreSQL and MySQL
+Automation tools
+Data reporting
+Artificial intelligence integrations
+Machine learning fundamentals
+OCR and document processing
+Analytics dashboards
+Developer Map
+Languages and Tools
+<p align="left"> <img src="https://skillicons.dev/icons?i=go,php,laravel,javascript,typescript,react,svelte,dotnet,python,postgres,mysql,docker,linux,git,github,vscode,html,css,tailwind" /> </p>
+Tech Stack
+Area	Technologies
+Backend	Go, PHP, Laravel, .NET
+Frontend	JavaScript, TypeScript, React, Svelte, TailwindCSS
+Databases	PostgreSQL, MySQL
+Data Analysis	Python, Pandas, Excel automation
+DevOps and Tools	Docker, Linux, Git, GitHub, VS Code
+Architecture	Clean Architecture, SOLID, REST APIs
+Interests	AI, automation, analytics, OCR, intelligent assistants
+Technical Focus
+GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=juancanas651&show_icons=true&theme=github_dark&hide_border=true" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancanas651&layout=compact&theme=github_dark&hide_border=true" height="170" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=juancanas651&theme=github-dark-blue&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=juancanas651&theme=github-dark&hide_border=true" /> </p>
+Learning Roadmap
+Featured Areas
+Backend Development
+
+I am interested in building maintainable backend systems using clean architecture, clear separation of responsibilities and scalable API design.
+
+Data and Automation
+
+I like creating tools that reduce manual work, automate repetitive processes, generate reports and transform raw data into useful information.
+
+Artificial Intelligence
+
+I am exploring the use of AI for document processing, intelligent assistants, OCR, automation and data-driven applications.
+
+Software Architecture
+
+I am continuously improving my understanding of architecture, design principles and technical decisions that make software easier to maintain and evolve.
+
+Connect with Me
+<p align="left"> <a href="mailto:juancanas651@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://fb.com/romanhdzx" target="_blank"> <img src="https://img.shields.io/badge/Facebook-romanhdzx-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a> <a href="https://instagram.com/romanhdzx" target="_blank"> <img src="https://img.shields.io/badge/Instagram-romanhdzx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
+Personal Statement
+
+I believe software should solve real problems, reduce repetitive work and create value through automation, data and well-designed systems.
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=juancanas651&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p> <p align="center"> <strong>Thanks for visiting my profile.</strong> </p> ```
+
+Solo revisa dos cosas antes de pegarlo:
+
+https://www.linkedin.com/in/juan-roman-hernandez
+
+Cámbialo por tu LinkedIn real si la URL es diferente.
